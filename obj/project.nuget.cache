@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "A78A06BuNcu7ZnuP3ezp5beenA/bvWxTTdSpnNP/3MHDJPwlyJZQfysR3v/JDff711GNW6zQol+wdvrZgifqUA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SnkrBots\\source\\repos\\CMA\\CMA.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SnkrBots\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\SnkrBots\\.nuget\\packages\\quantalib\\0.2.26\\quantalib.0.2.26.nupkg.sha512",
+    "C:\\Users\\SnkrBots\\.nuget\\packages\\system.drawing.common\\8.0.1\\system.drawing.common.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

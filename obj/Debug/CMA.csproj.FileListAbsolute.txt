@@ -1,0 +1,13 @@
+C:\Users\SnkrBots\Desktop\Quantower\Settings\Scripts\Indicators\CMA\CMA.deps.json
+C:\Users\SnkrBots\Desktop\Quantower\Settings\Scripts\Indicators\CMA\CMA.dll
+C:\Users\SnkrBots\Desktop\Quantower\Settings\Scripts\Indicators\CMA\CMA.pdb
+C:\Users\SnkrBots\source\repos\CMA\obj\Debug\CMA.csproj.AssemblyReference.cache
+C:\Users\SnkrBots\source\repos\CMA\obj\Debug\CMA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SnkrBots\source\repos\CMA\obj\Debug\CMA.AssemblyInfoInputs.cache
+C:\Users\SnkrBots\source\repos\CMA\obj\Debug\CMA.AssemblyInfo.cs
+C:\Users\SnkrBots\source\repos\CMA\obj\Debug\CMA.csproj.CoreCompileInputs.cache
+C:\Users\SnkrBots\source\repos\CMA\obj\Debug\CMA.csproj.CopyComplete
+C:\Users\SnkrBots\source\repos\CMA\obj\Debug\CMA.dll
+C:\Users\SnkrBots\source\repos\CMA\obj\Debug\refint\CMA.dll
+C:\Users\SnkrBots\source\repos\CMA\obj\Debug\CMA.pdb
+C:\Users\SnkrBots\source\repos\CMA\obj\Debug\ref\CMA.dll
