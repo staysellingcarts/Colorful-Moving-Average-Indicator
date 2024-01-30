@@ -1,0 +1,1 @@
+"# Colorful-Moving-Average-Indicator" 
